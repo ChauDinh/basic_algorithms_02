@@ -11,7 +11,7 @@ Longest word, anagrams, array chunking
 <ul>
     <li>Input: [1,2,3,4,5], length = 3</li>
     <li>Output: [[1,2,3],[4,5]]</li>
-<ul>
+</ul>
 
 <b>Chalenge 9</b>: Flatten array
 <ul>
